@@ -1,2 +1,2 @@
-# computer_vision
+computer_vision
 lecture of computer vision
