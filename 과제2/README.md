@@ -57,6 +57,6 @@ cv.destroyAllWindows()
 이 README는 코드의 목적과 주요 동작을 설명하며, 학습 및 수정 시 참고 자료로 사용할 수 있습니다.
 
 
-![Uploading 스크린샷 2026-03-05 164210.png…]()
 
+![adjusted_pensize](https://github.com/user-attachments/assets/0d770f18-1100-4a12-8051-beda56832a43)
 
