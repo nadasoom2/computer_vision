@@ -29,3 +29,6 @@
 ---
 
 이 스크립트는 이미지 전처리 및 시각화의 기초를 배우는 데 유용하며, 추가적인 변환이나 필터를 실험하는 출발점으로 활용할 수 있습니다.
+
+
+<img width="1431" height="501" alt="스크린샷 2026-03-05 160035" src="https://github.com/user-attachments/assets/bd7ea99a-aeff-4adf-8f7f-a9ee565df3f2" />
