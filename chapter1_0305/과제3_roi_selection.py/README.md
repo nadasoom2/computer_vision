@@ -131,7 +131,6 @@ while True:
 
 - **roi_image.jpg**: 's' 키를 눌러 저장한 ROI 이미지
 
+![roi_image](https://github.com/user-attachments/assets/7633ae37-76c1-4dc9-ad78-d9f91bab09d5)
 
-
-![Uploading 스크린샷 2026-03-05 170224.png…]()
 
