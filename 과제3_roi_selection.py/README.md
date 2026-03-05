@@ -131,3 +131,7 @@ while True:
 
 - **roi_image.jpg**: 's' 키를 눌러 저장한 ROI 이미지
 
+
+
+![Uploading 스크린샷 2026-03-05 170224.png…]()
+
