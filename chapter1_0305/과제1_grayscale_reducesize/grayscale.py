@@ -6,7 +6,7 @@ import sys
 import numpy as np
 
 #이미지 불러오기
-img = cv.imread('soccer.jpg')
+img = cv.imread('chapter1_0305/soccer.jpg')
 
 #예외처리(이미지가 없다면 print문 출력)
 if img is None:

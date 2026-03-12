@@ -6,7 +6,7 @@ import sys
 
 
 # soccer.jpg 이미지를 읽어서 img 변수에 저장
-img = cv.imread('soccer.jpg')
+img = cv.imread('chapter1_0305/soccer.jpg')
 
 # 이미지 파일이 존재하지 않을 경우 프로그램 종료
 if img is None:
