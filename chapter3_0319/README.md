@@ -49,6 +49,7 @@ python sobel_edge.py
 ---
 
 ## 실행 결과
+<img width="1181" height="397" alt="스크린샷 2026-03-19 171926" src="https://github.com/user-attachments/assets/87397059-99c7-43d9-8f26-e4cfc732b41c" />
 
 
 ---
@@ -115,6 +116,7 @@ python canny_edge.py
 
 ## 실행 결과
 
+<img width="1185" height="464" alt="스크린샷 2026-03-19 172006" src="https://github.com/user-attachments/assets/389c818f-5175-4823-91ba-8e8ab1df86ae" />
 
 
 ---
@@ -191,4 +193,5 @@ python grabcut.py
 
 ## 실행 결과
 
+<img width="1782" height="481" alt="스크린샷 2026-03-19 172126" src="https://github.com/user-attachments/assets/3004495e-beb3-4a60-b219-2d5688d29e0a" />
 
