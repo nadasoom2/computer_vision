@@ -60,7 +60,13 @@ fig, axes = plt.subplots(1, 2, figsize=(w * 2 / dpi, h / dpi), dpi=dpi)
 ```bash
 python SIFT_feature_detection.py
 ```
-- 결과 이미지 `sift_result.png`가 동일 폴더에 저장됨
+
+---
+
+## 5. 실행 결과
+
+<img width="2085" height="774" alt="sift_detection_result" src="https://github.com/user-attachments/assets/5fe8766d-5856-46f5-9bc5-b6fd6eb53c25" />
+
 
 ---
 ---
@@ -124,7 +130,12 @@ img_matches = cv.drawMatches(
 ```bash
 python SIFT_matching.py
 ```
-- 결과 이미지 `sift_matching_result.png`가 동일 폴더에 저장됨
+
+---
+
+## 5. 실행 결과
+
+<img width="1753" height="530" alt="sift_matching_result" src="https://github.com/user-attachments/assets/0caa24b7-e6bf-45b4-85d1-22b78aafc218" />
 
 ---
 ---
@@ -194,7 +205,12 @@ result[0:h1, 0:w1] = img1_color  # img1 고정
 ```bash
 python SIFT_homography.py
 ```
-- 결과 이미지 `homography_result.png`가 동일 폴더에 저장됨
+
+---
+
+## 5. 실행 결과
+
+<img width="1790" height="471" alt="homography_result" src="https://github.com/user-attachments/assets/cc85e824-1129-4207-9178-0a9aadb574ea" />
 
 ---
 
